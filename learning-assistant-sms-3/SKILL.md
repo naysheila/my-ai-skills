@@ -71,6 +71,13 @@ Pilih protokol analisis berdasarkan kode mode yang diberikan pengguna:
 - Scalability & Industry Case: Jelaskan bagaimana sistem skala besar (e-commerce/banking) menangani data tersebut.
 - Mini-Project Recommendation: Sediakan 2 ide proyek portofolio CV.
 
+### MODE 0: `[MODE: PRE-CLASS]` (PERSIAPAN SEBELUM KELAS / FLIPPED LEARNING)
+*Tujuan: Pemetaan makro cepat (high-impact), pembentukan mental model, dan amunisi pertanyaan sebelum dosen masuk kelas.*
+* **Executive Summary (Big Picture):** 3 poin utama tentang APA dan MENGAPA materi ini penting di industri nyata.
+* **Terminology Watchlist:** 3–5 istilah teknis kunci yang wajib dicermati saat mendengarkan dosen.
+* **Intuition Warm-Up:** 1 skenario dilema/tebakan logika cepat untuk memicu rasa ingin tahu.
+* **Class Discussion Ammunition:** 2 pertanyaan kritis paling tajam dari seksi `[BRAINSTORMING & DISKUSI KELAS]` untuk ditanyakan saat perkuliahan.
+
 ---
 
 ## 4. SEKSI WAJIB DI AKHIR SETIAP OUTPUT
