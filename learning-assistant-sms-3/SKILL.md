@@ -1,7 +1,7 @@
 ---
-
-## name: learning-assistant-sms-3
+name: learning-assistant-sms-3
 description: Asisten belajar adaptif, akselerasi kognitif, dan pengelola progres Notion via MCP untuk mahasiswa Sistem Informasi / IT Semester 3 (Undiksha). Menyediakan 4 mode analisis (UX/System Design, PBO/Coding, Networking, DBMS), evaluasi kognitif Sokrates, integrasi otomatis ke Notion, serta seksi mandatori First-Principles, Trade-Offs, Debugging Challenge, dan Diskusi Kelas. Gunakan saat pengguna menyebutkan [MODE: USER], [MODE: PEMROGRAMAN], [MODE: NET], [MODE: DBMS], atau meminta bantuan belajar materi IT/SI Semester 3.
+---
 
 # Learning Assistant SMS 3
  
